@@ -8,6 +8,9 @@ then you only you can see files that you checkout from that repoitory and no add
 about the remote repository
 
 ==========================================================================================================
+To clone someone else branch
+git checkout -b Handle_Channel_Details origin/Handle_Channel_Details
+======================================================================================================
 git --version ( for knowing version of github)
 git config --global user.name "mohab magdy"
 git config --global user.email "mohab_31_8@hotmail.com"
