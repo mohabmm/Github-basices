@@ -9,6 +9,7 @@ about the remote repository
 
 ==========================================================================================================
 To clone someone else branch
+git fetch
 git checkout -b Handle_Channel_Details origin/Handle_Channel_Details
 ======================================================================================================
 git --version ( for knowing version of github)
