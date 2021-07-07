@@ -271,4 +271,8 @@ git reset head --hard
 
 
 
+========================================================
+What you don't seem to understand is that you already have the most recent code, which is yours. If what you really want is to see the most recent of someone else's work that's on the master branch, just do:
 
+git fetch upstream
+git checkout upstream/master
