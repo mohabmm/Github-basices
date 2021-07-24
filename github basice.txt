@@ -276,3 +276,8 @@ What you don't seem to understand is that you already have the most recent code,
 
 git fetch upstream
 git checkout upstream/master
+
+
+========================================================
+For Updating github project location 
+git remote set-url origin https://bitbucket.org/32Personalities/front-end-mobile
