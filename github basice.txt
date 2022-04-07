@@ -281,3 +281,6 @@ git checkout upstream/master
 ========================================================
 For Updating github project location 
 git remote set-url origin https://bitbucket.org/32Personalities/front-end-mobile
+=========================================================
+how to force cehckout from branch on github 
+git checkout -f TaameniPurchaseFlow
